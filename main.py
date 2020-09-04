@@ -26,4 +26,4 @@ for n in range(1,4):
  GPA= GPA + p*float(c)
  C= C+float(c)
 GPA1 = GPA/C
-print(f"Your GPA is:{GPA1}")
+print(f"Your GPA is: {GPA1}")
